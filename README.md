@@ -4,7 +4,7 @@ This Accessible Color Palette Generator helps you create and refine color palett
 ## Key Features:
 ✅Adjust & Optimize Colors – Automatically tweak hues, brightness, and contrast to create a palette that is both beautiful and accessible.
 ✅Accessibility Pair Checking – Instantly analyze color pairings for contrast compliance (AA & AAA) and color-blind safety.
-✅ Copy HUE codes – Quickly copy and paste HEX codes for quick placement in Figma or codebase.
-✅ Export & Use – Download your palette in JSON for easy integration into your project.
+✅Copy HUE codes – Quickly copy and paste HEX codes for quick placement in Figma or codebase.
+✅Export & Use – Download your palette in JSON for easy integration into your project.
 
 Make your designs inclusive by default with colors that everyone can see and use.
