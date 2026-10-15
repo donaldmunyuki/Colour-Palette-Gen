@@ -1,0 +1,6 @@
+{
+  "name": "Accessible Color Palette Generator",
+  "description": "Create, adjust, and optimize WCAG-accessible color palettes with contrast checking, color-blind simulation, and code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
