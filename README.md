@@ -2,6 +2,7 @@
 This Accessible Colour Palette Generator helps you create and refine color palettes that meet WCAG accessibility standards. Whether you're designing for the web, UI, or branding, this tool ensures that your colours are visually appealing and readable for all users.
 
 ![Colour Palette Generator](colour-palette.png)
+https://colour-palettes-gen.netlify.app/
 
 ## Key Features:
 - Adjust & Optimize Colours : Automatically tweak hues, brightness, and contrast to create a palette that is both beautiful and accessible.
