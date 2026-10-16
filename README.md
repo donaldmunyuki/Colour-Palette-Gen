@@ -1,6 +1,8 @@
 # Colour-Palette-Gen
 This Accessible Colour Palette Generator helps you create and refine color palettes that meet WCAG accessibility standards. Whether you're designing for the web, UI, or branding, this tool ensures that your colours are visually appealing and readable for all users.
 
+![Colour Palette Generator](colour-palette.png)
+
 ## Key Features:
 - Adjust & Optimize Colours : Automatically tweak hues, brightness, and contrast to create a palette that is both beautiful and accessible.
 - Accessibility Pair Checking : Instantly analyze colour pairings for contrast compliance (AA & AAA) and colour-blind safety.
